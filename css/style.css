@@ -1,0 +1,105 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(249,189,189,1.00) 27.04%,rgba(255,127,127,1.00) 55.55%,rgba(249,189,189,1.00) 100%,rgba(249,189,189,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(249,189,189,1.00) 27.04%,rgba(255,127,127,1.00) 55.55%,rgba(249,189,189,1.00) 100%,rgba(249,189,189,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(249,189,189,1.00) 27.04%,rgba(255,127,127,1.00) 55.55%,rgba(249,189,189,1.00) 100%,rgba(249,189,189,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(249,189,189,1.00) 27.04%,rgba(255,127,127,1.00) 55.55%,rgba(249,189,189,1.00) 100%,rgba(249,189,189,1.00) 100%);
+
+
+}
+#carouselExampleIndicators1 .carousel-inner .carousel-item.active {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,255,162,1.00) 0%,rgba(22,255,170,1.00) 98.96%,rgba(0,255,161,1.00) 98.96%,rgba(82,245,186,1.00) 98.96%,rgba(65,237,176,1.00) 98.96%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,255,162,1.00) 0%,rgba(22,255,170,1.00) 98.96%,rgba(0,255,161,1.00) 98.96%,rgba(82,245,186,1.00) 98.96%,rgba(65,237,176,1.00) 98.96%);
+    background-image: -o-linear-gradient(270deg,rgba(0,255,162,1.00) 0%,rgba(22,255,170,1.00) 98.96%,rgba(0,255,161,1.00) 98.96%,rgba(82,245,186,1.00) 98.96%,rgba(65,237,176,1.00) 98.96%);
+    background-image: linear-gradient(180deg,rgba(0,255,162,1.00) 0%,rgba(22,255,170,1.00) 98.96%,rgba(0,255,161,1.00) 98.96%,rgba(82,245,186,1.00) 98.96%,rgba(65,237,176,1.00) 98.96%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(249,189,189,1.00) 0%,rgba(249,189,189,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(249,189,189,1.00) 0%,rgba(249,189,189,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(249,189,189,1.00) 0%,rgba(249,189,189,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(249,189,189,1.00) 0%,rgba(249,189,189,1.00) 100%);
+}
+.row .col-lg-4 .card.col-md-4.col-lg-12 {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,127,127,1.00) 0%,rgba(249,189,189,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,127,127,1.00) 0%,rgba(249,189,189,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,127,127,1.00) 0%,rgba(249,189,189,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,127,127,1.00) 0%,rgba(249,189,189,1.00) 100%);
+}
+#accordion1 .card #headingOne1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,205,206,1.00) 0%,rgba(255,205,206,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,205,206,1.00) 0%,rgba(255,205,206,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,205,206,1.00) 0%,rgba(255,205,206,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,205,206,1.00) 0%,rgba(255,205,206,1.00) 100%);
+}
+.card #collapseOne1 .card-body {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,216,217,1.00) 0%,rgba(255,229,230,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,216,217,1.00) 0%,rgba(255,229,230,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,216,217,1.00) 0%,rgba(255,229,230,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,216,217,1.00) 0%,rgba(255,229,230,1.00) 100%);
+}
+#accordion1 .card #headingTwo1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,216,217,1.00) 0%,rgba(255,216,217,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,216,217,1.00) 0%,rgba(255,216,217,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,216,217,1.00) 0%,rgba(255,216,217,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,216,217,1.00) 0%,rgba(255,216,217,1.00) 100%);
+}
+#accordion1 .card #headingThree1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,216,217,1.00) 0%,rgba(255,216,217,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,216,217,1.00) 0%,rgba(255,216,217,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,216,217,1.00) 0%,rgba(255,216,217,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,216,217,1.00) 0%,rgba(255,216,217,1.00) 100%);
+}
+.card #collapseTwo1 .card-body {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,226,227,1.00) 0%,rgba(253,227,227,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,226,227,1.00) 0%,rgba(253,227,227,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,226,227,1.00) 0%,rgba(253,227,227,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,226,227,1.00) 0%,rgba(253,227,227,1.00) 100%);
+}
+.card #collapseThree1 .card-body {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,228,228,1.00) 0%,rgba(255,224,224,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,228,228,1.00) 0%,rgba(255,224,224,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,228,228,1.00) 0%,rgba(255,224,224,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,228,228,1.00) 0%,rgba(255,224,224,1.00) 100%);
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #F12024;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #F12024;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    color: #530304;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #E46365;
+}
+
+
+
+
+
+#headingOne1 .mb-0 a {
+    color: #F12024;
+}
+.row .col-lg-6 .card.col-md-4.col-lg-12 {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,127,127,1.00) 0%,rgba(249,189,189,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,127,127,1.00) 0%,rgba(249,189,189,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,127,127,1.00) 0%,rgba(249,189,189,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,127,127,1.00) 0%,rgba(249,189,189,1.00) 100%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container-fluid .container footer {
+    color: #005E5C;
+}
